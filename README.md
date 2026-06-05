@@ -39,17 +39,8 @@ This case study evaluates whether Brave's Philippines portfolio is a viable cand
 | Fee & interest revenue | <10% of principal | 12–14% | 15%+ |
 | Repeat borrower rate | <50% | 60%+ | 70%+ (loan 3+) |
 
-**Four dimensions evaluated:**
-
-| # | Dimension | Key Metric |
-|---|---|---|
-| 1 | Origination Volume | `Origination_Principal_PHP` |
-| 2 | Credit Quality | `Repayment_Rate_30D` · `DQ_Rate_30_119DPD` |
-| 3 | Fee & Interest Revenue | `Fee_Interest_Revenue_PHP` · `Fee_Rev_Pct` |
-| 4 | Cash-on-Cash Return | `Cash_on_Cash_Return` |
-
 > [!NOTE]
-> The **3-year (2022–2025)** and **5-year (2019–2025)** windows are most relevant for a bank partner decision. 3Y reflects mature underwriting; 5Y covers a full credit cycle including COVID stress.
+> There is no single universal benchmark standard. Each bank sets its own thresholds based on their regulatory environment, risk appetite, cost of funds, and internal credit policy. However, based on market practice for digital lending partnerships in Southeast Asia (particularly the Philippines), these are the benchmarks that typically come up in due diligence.
 
 ---
 
