@@ -6,7 +6,7 @@
 
 ---
 
-## Table of Contents
+## 📓 Table of Contents
 1. [Overview](#overview)
 2. [Problem Statement](#problem-statement)
 3. [Data](#data)
@@ -28,7 +28,7 @@ This case study evaluates whether Brave's Philippines portfolio is a viable cand
 
 > Prospective bank channeling partners lack a structured, time-series view of Brave's Philippines portfolio performance — specifically across **origination volume growth**, **credit quality** (repayment rates and delinquency), and **fee-driven cash-on-cash returns** — across 1-month, 1-year, 3-year, and 5-year horizons, making it difficult to assess whether Brave's portfolio meets their risk and return thresholds for a loan channeling partnership.
 
-## 🚩 Key Assumptions
+## 🔑 Key Assumptions
 - All data is expressed in **Philippine pesos**
 - **Origination Volume** is the total principal amount disbursed to borrowers within a given period. It measures lending scale and growth.
 - **Repayment Rate** is the percentage of disbursed principal successfully collected within the repayment window (usually 30 days). Indicates borrower discipline and portfolio health.
@@ -54,7 +54,7 @@ This case study evaluates whether Brave's Philippines portfolio is a viable cand
 
 ---
 
-## Data
+## 📝 Data
 
 **Source file:** `Philippines_Case_Study_Portfolio_Summary_-_2026_03.xlsx`
 
