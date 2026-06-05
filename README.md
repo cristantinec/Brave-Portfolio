@@ -147,7 +147,13 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 
 ## 🖼️ Power BI Dashboard
 
-![5 Year](5years.png)
+![5 Years](5years.png)
+
+![3 Years](3years.png)
+
+![1 Year](1year.png)
+
+![Annual Summary](annualsummary.png)
 
 ---
 
