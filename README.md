@@ -16,13 +16,15 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
-Brave is a digital lending company providing short-term loans (~61-day terms, ₱500–₱10,000+) via mobile app to underserved borrowers in the Philippines. This study evaluates whether Tala's portfolio qualifies for a **bank loan channeling partnership** — where a bank provides capital and Tala handles origination, underwriting, and collections.
+Brave is a global digital lending company that provides small, short-term loans to underserved borrowers via mobile app. In the Philippines, Brave has been operating since 2019, disbursing loans typically ranging from ₱500 to ₱10,000+ with an average term of approximately 61 days.
+
+This case study evaluates whether Brave's Philippines portfolio is a viable candidate for a bank loan channeling partnership — an arrangement where a bank provides capital that Brave deploys as loans, with the bank earning a return and Tala handling origination, underwriting, and collections.
 
 ---
 
-## Problem Statement
+## 🚩 Problem Statement
 
 > Prospective bank channeling partners lack a structured, time-series view of Tala's Philippines portfolio performance — specifically across **origination volume growth**, **credit quality** (repayment rates and delinquency), and **fee-driven cash-on-cash returns** — across 1-month, 1-year, 3-year, and 5-year horizons, making it difficult to assess whether Tala's portfolio meets their risk and return thresholds for a loan channeling partnership.
 
