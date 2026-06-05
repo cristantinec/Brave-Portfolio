@@ -77,7 +77,7 @@ This study  → Jan 2019 – Mar 2026  (87 monthly cohorts, 6 tabs used)
 
 ---
 
-## Methodology
+## 🛠️ Methodology
 
 ### Tools
 
@@ -154,7 +154,7 @@ with pd.ExcelWriter("Tala_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") a
 
 ---
 
-## Insights
+## 🔎 Insights
 
 ### Annual Summary
 
@@ -196,7 +196,7 @@ with pd.ExcelWriter("Tala_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") a
 
 ---
 
-## Recommendations
+## ✅ Recommendations
 
 ### Benchmark vs. Thresholds
 
