@@ -36,7 +36,7 @@ This case study evaluates whether Brave's Philippines portfolio is a viable cand
 - **Cash‑on‑Cash return** is calculated simply as total collections divided by total principal disbursed.
 - **Fee & Interest Revenue** is earnings from service fees and interest charges, typically 15–18% of originations. Acts as a yield buffer enhancing returns.
 - **Repeat borrowers** are defined as customers with three or more loans from Tala.
-- **Horizon views** (1M, 1YR, 3YR, 5YR) to frame liquidity, stability, and durability in partner discussions
+- **Horizon views** (1-month, 1-year, 3-years, 5-year) to frame liquidity, stability, and durability in partner discussions
 
 ## 📊 Benchmark Summary Table
 
