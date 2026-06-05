@@ -28,6 +28,16 @@ This case study evaluates whether Brave's Philippines portfolio is a viable cand
 
 > Prospective bank channeling partners lack a structured, time-series view of Brave's Philippines portfolio performance — specifically across **origination volume growth**, **credit quality** (repayment rates and delinquency), and **fee-driven cash-on-cash returns** — across 1-month, 1-year, 3-year, and 5-year horizons, making it difficult to assess whether Brave's portfolio meets their risk and return thresholds for a loan channeling partnership.
 
+## 🚩 Key Assumptions
+- All data is expressed in **Philippine pesos**
+- **Origination Volume** is the total principal amount disbursed to borrowers within a given period. It measures lending scale and growth.
+- **Repayment Rate** is the percentage of disbursed principal successfully collected within the repayment window (usually 30 days). Indicates borrower discipline and portfolio health.
+- **Delinquency Rate** is the share of loans past due beyond the defined threshold (e.g., 30 days DPD). Reflects credit risk and collection efficiency. Loans are considered charged‑off at 121 days past due.
+- **Cash‑on‑Cash return** is calculated simply as total collections divided by total principal disbursed.
+- **Fee & Interest Revenue** is earnings from service fees and interest charges, typically 15–18% of originations. Acts as a yield buffer enhancing returns.
+- **Repeat borrowers** are defined as customers with three or more loans from Tala.
+- **Horizon views** (1M, 1YR, 3YR, 5YR) to frame liquidity, stability, and durability in partner discussions
+
 ## 📊 Benchmark Summary Table
 
 | KPI | Red Flag | Minimum | Preferred |
