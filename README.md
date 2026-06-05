@@ -1,6 +1,6 @@
-# Brave PH Lending Portfolio Analysis
+# Brave PH Loan Portfolio Analysis
 
-> Philippines loan portfolio performance analysis (2019–2026) — bank channeling partnership evaluation
+> Philippines portfolio performance analysis (2019–2026) — bank channeling partnership evaluation
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![pandas](https://img.shields.io/badge/pandas-2.x-green) ![Power BI](https://img.shields.io/badge/Power%20BI-Free-yellow) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
