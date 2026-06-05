@@ -1,6 +1,6 @@
 # Brave PH Lending Portfolio Analysis
 
-> Philippines lending portfolio performance analysis (2019–2026) — bank channeling partnership evaluation
+> Philippines loan portfolio performance analysis (2019–2026) — bank channeling partnership evaluation
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![pandas](https://img.shields.io/badge/pandas-2.x-green) ![Power BI](https://img.shields.io/badge/Power%20BI-Free-yellow) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
@@ -20,13 +20,13 @@
 
 Brave is a global digital lending company that provides small, short-term loans to underserved borrowers via mobile app. In the Philippines, Brave has been operating since 2019, disbursing loans typically ranging from ₱500 to ₱10,000+ with an average term of approximately 61 days.
 
-This case study evaluates whether Brave's Philippines portfolio is a viable candidate for a bank loan channeling partnership — an arrangement where a bank provides capital that Brave deploys as loans, with the bank earning a return and Tala handling origination, underwriting, and collections.
+This case study evaluates whether Brave's Philippines portfolio is a viable candidate for a bank loan channeling partnership — an arrangement where a bank provides capital that Brave deploys as loans, with the bank earning a return and Brave handling origination, underwriting, and collections.
 
 ---
 
 ## 🚩 Problem Statement
 
-> Prospective bank channeling partners lack a structured, time-series view of Tala's Philippines portfolio performance — specifically across **origination volume growth**, **credit quality** (repayment rates and delinquency), and **fee-driven cash-on-cash returns** — across 1-month, 1-year, 3-year, and 5-year horizons, making it difficult to assess whether Tala's portfolio meets their risk and return thresholds for a loan channeling partnership.
+> Prospective bank channeling partners lack a structured, time-series view of Brave's Philippines portfolio performance — specifically across **origination volume growth**, **credit quality** (repayment rates and delinquency), and **fee-driven cash-on-cash returns** — across 1-month, 1-year, 3-year, and 5-year horizons, making it difficult to assess whether Brave's portfolio meets their risk and return thresholds for a loan channeling partnership.
 
 ## 📊 Benchmark Summary Table
 
@@ -239,4 +239,4 @@ CoC of 1.062x understates the return. Implied annualized IRR of ~25–35% is a s
 
 ---
 
-*Tala Technologies, Inc. · Philippines Portfolio Case Study · Data period: Jan 2019 – Mar 2026 · All values in PHP · For discussion purposes only*
+*Brave Philippines Loan Portfolio Case Study · Data period: Jan 2019 – Mar 2026 · All values in PHP · For discussion purposes only*
