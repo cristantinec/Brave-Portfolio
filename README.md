@@ -18,7 +18,7 @@
 
 ## 📌 Overview
 
-Brave is a global digital lending company that provides small, short-term loans to underserved borrowers via mobile app. In the Philippines, Brave has been operating since 2019, disbursing loans typically ranging from ₱500 to ₱10,000+ with an average term of approximately 61 days.
+Brave is a global digital lending company that provides small, short-term loans to underserved borrowers via mobile app. In the Philippines, Brave has been operating since 2016, disbursing loans typically ranging from ₱500 to ₱10,000+ with an average term of approximately 61 days.
 
 This case study evaluates whether Brave's Philippines portfolio is a viable candidate for a bank loan channeling partnership — an arrangement where a bank provides capital that Brave deploys as loans, with the bank earning a return and Brave handling origination, underwriting, and collections.
 
