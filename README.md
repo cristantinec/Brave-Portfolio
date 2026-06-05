@@ -138,10 +138,15 @@ main = main.merge(dc,        on="MONTH", how="left")
 main = main.merge(dl,        on="MONTH", how="left")
 # → 87 rows × 17 columns — static values, no formulas
 
-with pd.ExcelWriter("Tala_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") as w:
+with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") as w:
     main.to_excel(w,   sheet_name="Portfolio_Data", index=False)
     annual.to_excel(w, sheet_name="Annual_Summary", index=False)
 ```
+
+---
+
+## 🖼️ Power BI Dashboard
+
 
 ---
 
