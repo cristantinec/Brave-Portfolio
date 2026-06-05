@@ -20,21 +20,22 @@
 
 Brave is a digital lending company providing short-term loans (~61-day terms, ₱500–₱10,000+) via mobile app to underserved borrowers in the Philippines. This study evaluates whether Tala's portfolio qualifies for a **bank loan channeling partnership** — where a bank provides capital and Tala handles origination, underwriting, and collections.
 
-| Metric | Value |
-|---|---|
-| Total originations (2019–2026) | **₱143.4B** |
-| Total loans disbursed | **28.9M+** |
-| Total fee & interest revenue | **₱22.5B (~16% of principal)** |
-| Avg cash-on-cash return | **1.062x** |
-| Avg repayment rate (30D) | **87.2%** |
-| Avg repeat borrower rate | **~90% (loan 3+)** |
-| Analysis period | **Jan 2019 – Mar 2026 (87 cohorts)** |
-
 ---
 
 ## Problem Statement
 
 > Prospective bank channeling partners lack a structured, time-series view of Tala's Philippines portfolio performance — specifically across **origination volume growth**, **credit quality** (repayment rates and delinquency), and **fee-driven cash-on-cash returns** — across 1-month, 1-year, 3-year, and 5-year horizons, making it difficult to assess whether Tala's portfolio meets their risk and return thresholds for a loan channeling partnership.
+
+## 📊 Benchmark Summary Table
+
+| KPI | Red Flag | Minimum | Preferred |
+|-----|-----------|----------|------------|
+| Origination volume | <₱500M/mo | ₱500M–1B/mo | ₱1.5B+/mo |
+| Repayment rate (30D) | <80% | 85% | 88%+ |
+| DQ rate (30–119 DPD) | >20% | <15% | <12% |
+| Cash‑on‑cash return | <0.95x | >1.0x | 1.04x+ |
+| Fee & interest revenue | <10% of principal | 12–14% | 15%+ |
+| Repeat borrower rate | <50% | 60%+ | 70%+ (loan 3+) |
 
 **Four dimensions evaluated:**
 
@@ -47,17 +48,6 @@ Brave is a digital lending company providing short-term loans (~61-day terms, �
 
 > [!NOTE]
 > The **3-year (2022–2025)** and **5-year (2019–2025)** windows are most relevant for a bank partner decision. 3Y reflects mature underwriting; 5Y covers a full credit cycle including COVID stress.
-
-## 📊 Benchmark Summary Table
-
-| KPI | Red Flag | Minimum | Preferred |
-|-----|-----------|----------|------------|
-| Origination volume | <₱500M/mo | ₱500M–1B/mo | ₱1.5B+/mo |
-| Repayment rate (30D) | <80% | 85% | 88%+ |
-| DQ rate (30–119 DPD) | >20% | <15% | <12% |
-| Cash‑on‑cash return | <0.95x | >1.0x | 1.04x+ |
-| Fee & interest revenue | <10% of principal | 12–14% | 15%+ |
-| Repeat borrower rate | <50% | 60%+ | 70%+ (loan 3+) |
 
 ---
 
