@@ -48,6 +48,17 @@ Brave is a digital lending company providing short-term loans (~61-day terms, �
 > [!NOTE]
 > The **3-year (2022–2025)** and **5-year (2019–2025)** windows are most relevant for a bank partner decision. 3Y reflects mature underwriting; 5Y covers a full credit cycle including COVID stress.
 
+## 📊 Benchmark Summary Table
+
+| KPI | Red Flag | Minimum | Preferred |
+|-----|-----------|----------|------------|
+| Origination volume | <₱500M/mo | ₱500M–1B/mo | ₱1.5B+/mo |
+| Repayment rate (30D) | <80% | 85% | 88%+ |
+| DQ rate (30–119 DPD) | >20% | <15% | <12% |
+| Cash‑on‑cash return | <0.95x | >1.0x | 1.04x+ |
+| Fee & interest revenue | <10% of principal | 12–14% | 15%+ |
+| Repeat borrower rate | <50% | 60%+ | 70%+ (loan 3+) |
+
 ---
 
 ## Data
