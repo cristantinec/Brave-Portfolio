@@ -164,14 +164,14 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 ![Full View](fullview.png)
 The dashboard highlights Brave’s portfolio strength across origination, returns, and borrower quality.
 
-Top KPIs show
+Top KPIs show:
   - ₱143.4 B in **Originations** (2019–2025)
   - Consistent **Cash‑on‑cash Returns** above 1.0x
   - **Repayment Rates** steady at 88–90%,
   - **Delinquency Rate** contained at ~7%
   - **Fee & Interest Revenue** contributing 15–18% of yield,
 
-Charts illustrate
+Charts illustrate:
   - Origination growth with a brief COVID dip and recovery
   - Repayment resilience versus normalized delinquency
   - Contribution breakdown where ~70–75% of returns come from principal and ~25–30% from fees.
