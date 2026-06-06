@@ -229,7 +229,7 @@ Charts illustrate
 
 ### Benchmark vs. Thresholds
 
-| KPI | Red Flag | Minimum | Preferred | Tala Actual | Verdict |
+| KPI | Red Flag | Minimum | Preferred | Brave Actual | Verdict |
 |---|---|---|---|---|---|
 | Origination volume | <₱500M/mo | ₱500M–1B/mo | ₱1.5B+/mo | ~₱2.7B/mo | ✅ Exceeds |
 | Repayment rate (30D) | <80% | 85% | 88%+ | 87.2% avg / 88.3% latest | ✅ Meets |
