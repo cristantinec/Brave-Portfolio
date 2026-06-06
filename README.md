@@ -165,11 +165,11 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 The dashboard highlights Tala’s portfolio strength across origination, returns, and borrower quality.
 
 Top KPIs show
-  - ₱143.4 B in originations (2019–2025)
-  - Consistent cash‑on‑cash returns above 1.0x
-  - Fee & interest revenue contributing 15–18% of yield,
-  - Repayment rates steady at 88–90%,
-  - Delinquency contained at ~7%.
+  - ₱143.4 B in **Originations** (2019–2025)
+  - Consistent **Cash‑on‑cash Returns** above 1.0x
+  - **Repayment Rates** steady at 88–90%,
+  - **Delinquency Rate** contained at ~7%
+  - **Fee & Interest Revenue** contributing 15–18% of yield,
 
 Charts illustrate
   - Origination growth with a brief COVID dip and recovery
