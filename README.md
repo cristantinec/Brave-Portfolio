@@ -159,15 +159,23 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 
 ### 5-Year View (2021 - 2025)
 ![5 Years](5years.png)
+- Highlights Internal Rate of Return (IRR) durability and long‑term risk cycle management.
+- This is the sustainability story — showing that Brave’s returns and risk controls hold steady across multiple borrower cycles.
 
 ### 3-Year View (2023 - 2025)
 ![3 Years](3years.png)
+- The story is about post‑COVID recovery and underwriting consistency.
+- Demonstrates how Brave stabilized after the 2020 contraction and maintained disciplined credit practices.
 
 ### 1-Year View (2025)
 ![1 Year](1year.png)
+- We capture seasonal lending patterns and repayment stability.
+- Shows how the portfolio performs across cycles — holidays, school terms, and other borrower demand peaks.
 
 ### Annual Summary and Portfolio Narrative
 ![Annual Summary](annualsummary.png)
+- Year‑by‑year performance — origination growth, repayment discipline, fee revenue, and returns
+- Highlights how Tala’s portfolio has matured and sustained quality over time.
 
 ---
 
@@ -188,10 +196,10 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 
 ### Key Findings
 
-- Repayment Rate (30DPD) averages 87–90%, slightly below the 92% benchmark but stable across cycles.  
-- Delinquency (30–119DPD) ~10.8%, within preferred threshold, concentrated in seasonal peaks.  
-- Fee & Interest Revenue ~15.3% of originations, providing a consistent yield buffer.  
-- Cash‑on‑Cash Return ~1.05x, exceeding minimum and preferred benchmarks.  
+- Fee & Interest Revenue ~15.3% of originations, providing a consistent yield buffer.
+- Cash‑on‑Cash Return ~1.05x, exceeding minimum and preferred benchmarks.
+- Delinquency (30–119DPD) ~7.2%, within preferred threshold, concentrated in seasonal peaks.  
+- Repayment Rate (30DPD) averages 87–90%, slightly below the 92% benchmark but stable across cycles.
 - Repeat Borrower Rate ~80%, well above preferred benchmark, showing strong customer loyalty.
 
 ---
