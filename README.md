@@ -53,7 +53,7 @@ This case study evaluates whether Brave's Philippines portfolio is a viable cand
 | Repeat borrower rate | <50% | 60%+ | 70%+ (loan 3+) |
 
 > [!NOTE]
-> There is no single universal benchmark standard. Each bank sets its own thresholds based on their regulatory environment, risk appetite, cost of funds, and internal credit policy. However, based on market practice for digital lending partnerships in Southeast Asia (particularly the Philippines), these are the benchmarks that typically come up in due diligence.
+> Each bank sets its own thresholds based on their regulatory environment, risk appetite, cost of funds, and internal credit policy. However, based on market practice for digital lending partnerships in Southeast Asia (particularly the Philippines), these are the benchmarks that typically come up in due diligence.
 
 ---
 
