@@ -9,10 +9,13 @@
 ## 📓 Table of Contents
 1. [Overview](#overview)
 2. [Problem Statement](#problem-statement)
-3. [Data](#data)
-4. [Methodology](#methodology)
-5. [Insights](#insights)
-6. [Recommendations](#recommendations)
+3. [Key Assumptions](#key-assumptions)
+4. [Benchmark Summary Table](#benchmark-summary-table)
+5. [Data](#data)
+6. [Methodology](#methodology)
+7. [Power BI Dashboard](#power-bi-dashboard)
+8. [Insights](#insights)
+9. [Recommendations](#recommendations)
 
 ---
 
