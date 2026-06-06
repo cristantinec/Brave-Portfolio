@@ -162,7 +162,7 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 
 ### Full View (2019 - 2025)
 ![Full View](fullview.png)
-The dashboard highlights Tala’s portfolio strength across origination, returns, and borrower quality.
+The dashboard highlights Brave’s portfolio strength across origination, returns, and borrower quality.
 
 Top KPIs show
   - ₱143.4 B in **Originations** (2019–2025)
@@ -196,7 +196,7 @@ Charts illustrate
 ### Annual Summary and Portfolio Narrative
 ![Annual Summary](annualsummary.png)
 - Year‑by‑year performance — origination growth, repayment discipline, fee revenue, and returns
-- Highlights how Tala’s portfolio has matured and sustained quality over time.
+- Highlights how Brave’s portfolio has matured and sustained quality over time.
 
 ---
 
