@@ -191,7 +191,7 @@ Charts illustrate
 ![1 Year](1year.png)
 - We capture seasonal lending patterns and repayment stability.
 - Shows how the portfolio performs across cycles — holidays, school terms, and other borrower demand peaks.
-- Drill it down to month shows consistent origination pacing, with repayment rates holding steady across seasonal cycles.
+- Drilling it down to months shows consistent origination pacing, with repayment rates holding steady across seasonal cycles.
 
 ### Annual Summary and Portfolio Narrative
 ![Annual Summary](annualsummary.png)
