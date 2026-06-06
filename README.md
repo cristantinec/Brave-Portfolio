@@ -253,7 +253,7 @@ Charts illustrate
 ---
 
 > [!IMPORTANT]
-> **Final answer to the problem statement:** Based on 87 months of data (Jan 2019 – Mar 2026), Brave's Philippines portfolio meets or exceeds the preferred threshold on all six KPIs evaluated. The strongest case is made using the 5-year (2021–2025) and 3-year (2023–2025) window. Tala is a quantitatively strong candidate for a bank loan channeling partnership.
+> **Final answer to the problem statement:** Based on 87 months of data (Jan 2019 – Mar 2026), Brave's Philippines portfolio meets or exceeds the preferred threshold on all six KPIs evaluated. The strongest case is made using the 5-year (2021–2025) and 3-year (2023–2025) window. Brave is a quantitatively strong candidate for a bank loan channeling partnership.
 
 ---
 
