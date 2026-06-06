@@ -160,6 +160,9 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 
 ## 🖼️ Power BI Dashboard
 
+### Full View (2019 - 2025)
+![Full View](fullview.png)
+
 ### 5-Year View (2021 - 2025)
 ![5 Years](5years.png)
 - Highlights Internal Rate of Return (IRR) durability and long‑term risk cycle management.
