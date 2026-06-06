@@ -176,7 +176,7 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 ### Annual Summary
 
 | Year | Originations (₱B) | Fee Rev (₱B) | Fee % | CoC | DQ 30–119 | RR 30D | Repeat Borrower % |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | 2019 | 15.8 | 2.5 | 16.0% | 1.03x | ⚠️ 14.5% | 88.0% | 82.3% |
 | 2020 | 7.1 | 1.2 | 16.7% | 1.05x | ⚠️ 12.4% | 79.9% | 93.1% |
 | 2021 | 11.7 | 1.9 | 16.2% | 1.10x | ✅ 3.5% | 93.9% | 92.1% |
