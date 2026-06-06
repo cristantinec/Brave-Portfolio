@@ -239,7 +239,7 @@ Charts illustrate
 | Repeat borrower rate | <50% | 60%+ | 70%+ (loan 3+) | ~90% | ✅ Exceeds |
 
 > [!TIP]
-> Tala meets or exceeds the **preferred threshold on all six KPIs**. The portfolio is a strong candidate for a bank loan channeling arrangement.
+> Brave meets or exceeds the **preferred threshold on all six KPIs**. The portfolio is a strong candidate for a bank loan channeling arrangement.
 
 ### Actions
 
