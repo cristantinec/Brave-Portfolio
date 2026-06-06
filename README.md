@@ -162,18 +162,20 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 
 ### Full View (2019 - 2025)
 ![Full View](fullview.png)
-- The dashboard highlights Tala’s portfolio strength across origination, returns, and borrower quality.
-- Top KPIs show
-  > ₱143.4 B in originations (2019–2025)
-  > Consistent cash‑on‑cash returns above 1.0x
-  > Fee & interest revenue contributing 15–18% of yield,
-  > Repayment rates steady at 88–90%,
-  > Delinquency contained at ~7%.
-- Charts illustrate
-  > Origination growth with a brief COVID dip and recovery
-  > Repayment resilience versus normalized delinquency
-  > Contribution breakdown where ~70–75% of returns come from principal and ~25–30% from fees.
-  > Repeat borrower rate remains in the high 80s to low 90s, underscoring loyalty and lower risk from proven customers.
+The dashboard highlights Tala’s portfolio strength across origination, returns, and borrower quality.
+
+Top KPIs show
+  - ₱143.4 B in originations (2019–2025)
+  - Consistent cash‑on‑cash returns above 1.0x
+  - Fee & interest revenue contributing 15–18% of yield,
+  - Repayment rates steady at 88–90%,
+  - Delinquency contained at ~7%.
+
+Charts illustrate
+  - Origination growth with a brief COVID dip and recovery
+  - Repayment resilience versus normalized delinquency
+  - Contribution breakdown where ~70–75% of returns come from principal and ~25–30% from fees.
+  - Repeat borrower rate remains in the high 80s to low 90s, underscoring loyalty and lower risk from proven customers.
 
 ### 5-Year View (2021 - 2025)
 ![5 Years](5years.png)
@@ -189,6 +191,7 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 ![1 Year](1year.png)
 - We capture seasonal lending patterns and repayment stability.
 - Shows how the portfolio performs across cycles — holidays, school terms, and other borrower demand peaks.
+- Drill it down to month shows consistent origination pacing, with repayment rates holding steady across seasonal cycles.
 
 ### Annual Summary and Portfolio Narrative
 ![Annual Summary](annualsummary.png)
