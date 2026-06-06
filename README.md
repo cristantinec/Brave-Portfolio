@@ -222,12 +222,12 @@ with pd.ExcelWriter("Brave_PH_Portfolio_PowerBI_Ready.xlsx", engine="openpyxl") 
 
 ### Actions
 
+- Use **5‑Year Horizon:** Best for strategic partner discussions — proves durability and benchmark alignment.  
+- Use **3‑Year Horizon:** Highlights post‑COVID recovery and underwriting discipline
 - Strengthen collections for borrowers at 30–60DPD with tailored repayment reminders.  
 - Deploy proactive risk management during seasonal origination peaks.  
 - Maintain fee & interest yield buffer (15–18%) through optimized fee structures.  
 - Introduce loyalty incentives to further boost repeat borrower rate.
-- Use **5‑Year Horizon:** Best for strategic partner discussions — proves durability and benchmark alignment.  
-- Use **3‑Year Horizon:** Highlights post‑COVID recovery and underwriting discipline
 
 ---
 
