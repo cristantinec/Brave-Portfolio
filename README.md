@@ -194,7 +194,7 @@ Charts illustrate:
 - Drilling it down to months shows consistent origination pacing, with repayment rates holding steady across seasonal cycles.
 
 ### Annual Summary and Portfolio Narrative
-![Annual Summary](annualsummmary.png)
+
 - Year‑by‑year performance — origination growth, repayment discipline, fee revenue, and returns
 - Highlights how Brave’s portfolio has matured and sustained quality over time.
 
