@@ -194,7 +194,7 @@ Charts illustrate:
 - Drilling it down to months shows consistent origination pacing, with repayment rates holding steady across seasonal cycles.
 
 ### Annual Summary and Portfolio Narrative
-![Annual Summary](annualsummary.png)
+![Annual Summary](annualsummmary.png)
 - Year‑by‑year performance — origination growth, repayment discipline, fee revenue, and returns
 - Highlights how Brave’s portfolio has matured and sustained quality over time.
 
@@ -206,8 +206,8 @@ Charts illustrate:
 
 | Year | Originations (₱B) | Fee Rev (₱B) | Fee % | CoC | DQ 30–119 | RR 30D | Repeat Borrower % |
 |---|---|---|---|---|---|---|---|
-| 2019 | 15.8 | 2.5 | 16.0% | 1.03x | ⚠️ 14.5% | 88.0% | 82.3% |
-| 2020 | 7.1 | 1.2 | 16.7% | 1.05x | ⚠️ 12.4% | 79.9% | 93.1% |
+| 2019 | 15.8 | 2.5 | 16.0% | 1.03x | 🔴 14.5% | 88.0% | 82.3% |
+| 2020 | 7.1 | 1.2 | 16.7% | 1.05x | 🔴 12.4% | 79.9% | 93.1% |
 | 2021 | 11.7 | 1.9 | 16.2% | 1.10x | ✅ 3.5% | 93.9% | 92.1% |
 | 2022 | 15.1 | 2.7 | 17.8% | 1.10x | ✅ 3.7% | 90.3% | 91.3% |
 | 2023 | 25.3 | 3.9 | 15.5% | 1.08x | ✅ 5.3% | 82.0% | 92.2% |
